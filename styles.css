@@ -21,3 +21,7 @@ h1,h2 {
 h1{
     font-weight: bolder;
 }
+
+h2{
+    color: #555;
+}
